@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020006784415",
+    "firebase_url": "https://fir-friendlychat-c3aff.firebaseio.com",
+    "project_id": "fir-friendlychat-c3aff",
+    "storage_bucket": "fir-friendlychat-c3aff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020006784415:android:2dc51bb5d16cdf96",
+        "android_client_info": {
+          "package_name": "io.github.ziginsider.firebasefriendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020006784415-teq1faqc1dtojmcflfl2i5mvfid44mvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.ziginsider.firebasefriendlychat",
+            "certificate_hash": "9fee1a044aaf056c26bd53bf4b9ccc3f35ec5b21"
+          }
+        },
+        {
+          "client_id": "1020006784415-41sm37ncpaph8b3tcdhrm2b8niq21qbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Kk-TV3kP6bIKZJ8bUI8Xs3-nqfy4q8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020006784415-41sm37ncpaph8b3tcdhrm2b8niq21qbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
